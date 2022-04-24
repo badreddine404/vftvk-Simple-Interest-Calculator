@@ -1,4 +1,20 @@
-body {background-color:tan;}
-h1{color:green;}
 
+body { /*define the color body*/
+  background-color:black;
+      font-family:arial;
+          color:white;
+              }
+                  
+                  h1{/*define the color h1*/
+                    color:grey;
+                    font-family:verdana
+                    }
 
+                    .maindiv { /* define style for maindiv class*/
+                    background-color:white;
+                    color:black;
+                    width :300px;
+                    padding : 20px;
+                    border-radius: 25px;
+                    margin: auto; /*Align the div to the center of the page*/
+                    }
